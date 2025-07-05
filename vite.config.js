@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Task-Manager/',
+  base: '/', // atur base ke root agar routing dan asset jalan dengan benar
 });
