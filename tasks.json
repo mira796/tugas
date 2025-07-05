@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Contoh Task dari Postman",
+    "description": "Ini deskripsi task yang baru",
+    "status": "to-do",
+    "priority": "high"
+  }
+]
